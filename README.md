@@ -7,6 +7,19 @@ The Workforce Presence Insights Dashboard is a Power BI project designed to anal
 Using interactive visualizations and KPI tracking, this project helps organizations monitor attendance performance and make data-driven workforce planning decisions.
 
 ---
+## 📸 Dashboard Preview
+
+The dashboard includes monthly workforce presence reports for April, May, and June 2022, allowing users to compare attendance, WFH, and Sick Leave trends across time.
+
+![April Dashboard](images/april%2022.png)
+
+
+![May Dashboard](images/may%2022.png)
+
+
+![June Dashboard](images/june%2022.png)
+
+---
 
 ## 🎯 Business Problem
 
@@ -166,11 +179,6 @@ Leverage historical attendance trends for better staffing and operational planni
 * Insight Generation
 
 ---
-
-## 📸 Dashboard Preview
-
-The dashboard includes monthly workforce presence reports for April, May, and June 2022, allowing users to compare attendance, WFH, and Sick Leave trends across time.
-
 ---
 
 ## 👨‍💻 Author
